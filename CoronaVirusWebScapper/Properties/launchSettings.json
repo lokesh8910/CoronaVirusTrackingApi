@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoronaVirusWebScapper": {
+      "commandName": "Project",
+      "commandLineArgs": "India"
+    }
+  }
+}

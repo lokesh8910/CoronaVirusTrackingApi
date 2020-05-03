@@ -1,0 +1,17 @@
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusTrackingApi.deps.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusTrackingApi.runtimeconfig.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusTrackingApi.runtimeconfig.dev.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusTrackingApi.dll
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusTrackingApi.pdb
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.dll
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.pdb
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.csprojAssemblyReference.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.csproj.CoreCompileInputs.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.RazorAssemblyInfo.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.RazorAssemblyInfo.cs
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.AssemblyInfoInputs.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.AssemblyInfo.cs
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.RazorTargetAssemblyInfo.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.csproj.CopyComplete
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.dll
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusTrackingApi\obj\Release\netcoreapp2.1\CoronaVirusTrackingApi.pdb

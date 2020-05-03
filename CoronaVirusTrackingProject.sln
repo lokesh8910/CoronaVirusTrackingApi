@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoronaVirusTrackingApi", "CoronaVirusTrackingApi\CoronaVirusTrackingApi.csproj", "{4B22C052-A832-4983-8D0A-2F834DD28A0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoronaVirusWebScapper", "CoronaVirusWebScapper\CoronaVirusWebScapper.csproj", "{CFF0A28F-7066-4929-B42D-E81B699807D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B22C052-A832-4983-8D0A-2F834DD28A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B22C052-A832-4983-8D0A-2F834DD28A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B22C052-A832-4983-8D0A-2F834DD28A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B22C052-A832-4983-8D0A-2F834DD28A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF0A28F-7066-4929-B42D-E81B699807D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF0A28F-7066-4929-B42D-E81B699807D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF0A28F-7066-4929-B42D-E81B699807D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF0A28F-7066-4929-B42D-E81B699807D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C93828CB-16AE-480C-ADD2-12A3B0D80266}
+	EndGlobalSection
+EndGlobal

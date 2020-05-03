@@ -1,0 +1,11 @@
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.deps.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.runtimeconfig.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.runtimeconfig.dev.json
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.dll
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\bin\Release\netcoreapp2.1\CoronaVirusWebScapper.pdb
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.csprojAssemblyReference.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.csproj.CoreCompileInputs.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.AssemblyInfoInputs.cache
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.AssemblyInfo.cs
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.dll
+C:\Users\Lokesh\source\repos\CoronaVirusTrackingApi\CoronaVirusWebScapper\obj\Release\netcoreapp2.1\CoronaVirusWebScapper.pdb
